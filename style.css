@@ -1,0 +1,10 @@
+img{
+    padding-top: 2em;
+    margin-top: 2em;
+    width: 40%;
+    max-height: 300px;
+}
+button{
+    font-size: 2em;
+    transform: translateX(400px);
+}
